@@ -7,3 +7,4 @@ applications:
   disk_quota: 1024M
   services:
   - cloudnative-autoscale-pgeiger
+  - new-relic-pfg
